@@ -7,12 +7,12 @@
 }
 #container {
   display: flex;
-  width: 70%;
+  width: 72.5%;
   margin: auto
 }
 #reviews{
   flex: 3;
-  padding: 10px
+  padding: 10px;
 }
 #relation{
   flex: 2;
