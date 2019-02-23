@@ -1,0 +1,10 @@
+{
+  "Image": {
+    "Name": "mikejdev/gutsyproxy"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 3000,
+    }
+  ]
+}
