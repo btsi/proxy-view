@@ -4,7 +4,9 @@
 
 #main{
   margin-top: 110px;
-
+}
+#gutsy{
+  margin-top: 1250px;
 }
 #container {
   display: flex;
